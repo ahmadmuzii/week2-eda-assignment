@@ -27,5 +27,4 @@ Used Car Price Dataset (CarDekho)
 3. Vehicle price was most strongly affected by power, engine size, and vehicle specifications.
 
 ## Week 1 Repository
-
-Paste your Week 1 GitHub link here.
+https://github.com/ahmadmuzii/week1-eda-assignment.git .
